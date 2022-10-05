@@ -5,7 +5,7 @@
 <param ve-config 
        title="The Sami People"
        author="Sarah, Fuka and Evelyne"
-       banner="Nordic Sami people Lavvu 1900-1920.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nordic_Sami_people_Lavvu_1900-1920.jpg/640px-Nordic_Sami_people_Lavvu_1900-1920.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
