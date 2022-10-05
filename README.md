@@ -37,8 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ### Branches
 
-There are 10 branches of the Sami people:
-[Northern Sami](https://en.wikipedia.org/wiki/S%C3%A1mi#Mountain_S%C3%A1mi) : population 42,500, primarily located in Norway
+There are 10 branches of the Sami people: Northern Sami, : population 42,500, primarily located in Norway
 Lule Sami: population of 8,000, primarily located in Sweden
 Pite Sami: population of 2,000, primarily located in Sweden
 Southern Sami: population of 1,200, primarily located in Sweden
