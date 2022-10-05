@@ -37,16 +37,17 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ### Branches
 
-There are 10 branches of the Sami people: Northern Sami, : population 42,500, primarily located in Norway
-Lule Sami: population of 8,000, primarily located in Sweden
-Pite Sami: population of 2,000, primarily located in Sweden
-Southern Sami: population of 1,200, primarily located in Sweden
-Ume Sami: population of 1,000, primarily located in Sweden
-Skolt Sami: population of 1,000, primarily located in Finland
-Kildin Sami: population of 1,000, primarily located in Russia
-Inari Sami: population of 900, primarily located in Finland
-Ter Sami: population of 400, primarily located in Russia
-Akkala Sami: population of 100, primarily located in Russia
+There are 10 branches of the Sami people: 
+* Northern Sami: population 42,500, primarily located in Norway
+* Lule Sami: population of 8,000, primarily located in Sweden
+* Pite Sami: population of 2,000, primarily located in Sweden
+* Southern Sami: population of 1,200, primarily located in Sweden
+* Ume Sami: population of 1,000, primarily located in Sweden
+* Skolt Sami: population of 1,000, primarily located in Finland
+* Kildin Sami: population of 1,000, primarily located in Russia
+* Inari Sami: population of 900, primarily located in Finland
+* Ter Sami: population of 400, primarily located in Russia
+* Akkala Sami: population of 100, primarily located in Russia
 
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
