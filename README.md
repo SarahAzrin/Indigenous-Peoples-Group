@@ -22,9 +22,9 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+# Some Basic Facts
 
-## Image
+## Size
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -35,19 +35,38 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
+### Branches
+
+There are 10 branches of the Sami people:
+[Northern Sami](https://en.wikipedia.org/wiki/S%C3%A1mi#Mountain_S%C3%A1mi) : population 42,500, primarily located in Norway
+Lule Sami: population of 8,000, primarily located in Sweden
+Pite Sami: population of 2,000, primarily located in Sweden
+Southern Sami: population of 1,200, primarily located in Sweden
+Ume Sami: population of 1,000, primarily located in Sweden
+Skolt Sami: population of 1,000, primarily located in Finland
+Kildin Sami: population of 1,000, primarily located in Russia
+Inari Sami: population of 900, primarily located in Finland
+Ter Sami: population of 400, primarily located in Russia
+Akkala Sami: population of 100, primarily located in Russia
+
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## Language
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
+
+## Religion
+
+# Values relating to the Earth
+
+
 
 # References
 
