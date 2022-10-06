@@ -14,8 +14,8 @@
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-<param ve-map basemap="Esri_WorldPhysical"> 
+<param ve-entity eid="Q42274"> <!-- The Hague -->
+ 
 
 
 # A Brief History of the Sami People
