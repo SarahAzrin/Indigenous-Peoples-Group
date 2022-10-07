@@ -31,7 +31,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Size
 
-The current estimated population of the Sámi people is between 70,000 and 100,000 as it is hard to count the population because of the blurry lines of what is considered an identity marker and because of the cultural assimilation that occurred. Roughly half of the population live in Norway but others live in Sweden, Finland, and Russia. [^1]
+The current estimated population of the Sámi people is between __70,000 and 100,000__ as it is hard to count the population because of the blurry lines of what is considered an identity marker and because of the __cultural assimilation__ that occurred. Roughly half of the population live in Norway but others live in Sweden, Finland, and Russia. [^1]
 
 <param ve-image 
        label="Map of Sámi Languages" 
@@ -41,7 +41,7 @@ The current estimated population of the Sámi people is between 70,000 and 100,0
 
 ### Branches
 
-Within the umbrella term of the Sámi people, there are 10 branches of subgroups:
+Within the umbrella term of the Sámi people, there are __10 branches__ of subgroups:
 
 * Northern Sámi: population of 42,500, primarily located in Norway
 * Lule Sámi: population of 8,000, primarily located in Sweden
@@ -67,7 +67,17 @@ Each branch of the Sámi has their own [language](https://www.youtube.com/watch?
 
 ## Religion
 
-The traditional Sámi religion that was practiced until the 17th century was a type of polytheism and animism which is the belief of the supernatural and that objects, places, and creatures all have a spiritual essence. Their religion was tied closely to the land and had a deep connection between the natural and spiritual worlds. They felt it was important to connect ones personal spirituality with their daily life and it was very much at the forefront of their culture. They also engaged in ritual communication with the supernatural using drums, chants, or sacred objects, and practiced their religion at sacred sites like mountains, springs, or other land formations. However, when Christianiaty became the dominant religion in the 17th century, the Sámi were forced to practice their religion at home in private and had to attend church on Sundays. They were considered to have witchcraft powers and were accused of sorcery. In fact in 1720, the Sámi inhabitants of Norway had their drums or other sacred objects burned, and sacred sites destroyed because of efforts to colonize and convert them. This was an explicit and forceful violation of the Sámi peoples universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) to religion and the ability to worship in peace and security. 
+The traditional Sámi religion that was practiced until the 17th century was a type of polytheism and animism which is the belief of the supernatural and that objects, places, and creatures all have a spiritual essence. Their religion was tied closely to the land and had a deep connection between the natural and spiritual worlds. They felt it was important to connect ones personal spirituality with their daily life and it was very much at the forefront of their culture. They also engaged in ritual communication with the supernatural using __drums__, chants, or sacred objects, and practiced their religion at __sacred sites__ like mountains, springs, or other land formations. However, when Christianiaty became the dominant religion in the 17th century, the Sámi were forced to practice their religion at home in private and had to attend church on Sundays. They were considered to have witchcraft powers and were accused of sorcery. In fact, in 1720 the Sámi inhabitants of Norway had their __drums__ or other sacred objects burned, and sacred sites destroyed because of efforts to __colonize and convert them__. This was an explicit and forceful __violation of the Sámi peoples universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) to religion and the ability to worship in peace and security__. 
+
+<param ve-compare curtain
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Sami_shamanic_drum.JPG"
+       label="Sami shamanic drum"
+       description="Sami shamanic drum in the Arktikum museum, in Rovaniemi, Finland.">
+<param ve-compare
+       url="https://upload.wikimedia.org/wikipedia/commons/1/14/Hand%C3%B6l_Sami_Chapel%2C_J%C3%A4mtland%2C_Sweden.jpg"
+       label="Handöl Sami Chapel, Jämtland, Sweden."
+       description="People outside Handöl Sami Chapel. The chapel was built for the Sami people who lived in the mountains near the Norwegian border. It was inaugurated in 1804."
+       attribution="Axel Lindahl">
 
 
 # Values relating to the Earth
