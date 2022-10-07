@@ -61,7 +61,7 @@ Within the umbrella term of the Sámi people, there are __10 branches__ of subgr
 Each branch of the Sámi has their own [language](https://www.youtube.com/watch?v=wjwQkOzzSAg) which are closely related to each other but are not considered dialects as they do have their many differences. Many do not speak any of the Sámi languages and have undergone __cultural alienation__ due to being absorbed into the dominant culture of society and the __historic laws that prohibited the use of Sámi languages__ in schools and homes in Sweden and Norway. In fact, __traditional Sámi songs were illegal__ in Norway from 1773 to 1958, which is a violation of the __universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) of freedom of expression and right to share in your community’s cultural life__. The Sámi people now speak the majority languages of the countries they inhabit, which would be Swedish, Russian, Finish, and Norwegian.
 
 <param ve-video
-	id="https://www.youtube.com/watch?v=wjwQkOzzSAg"
+	id="wjwQkOzzSAg"
 	title="WIKITONGUES: Irena speaking Northern Sami.">
 
 
