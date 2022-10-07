@@ -16,10 +16,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q72708264"> <!-- The Hague -->
 <param title="Finland"
-       eid="Q390151">
-       
- 
-
+       eid="Q390151"
+       fill="#FF0000"
+       marker-symbol="Ukonsaari, Finland">
 
 # A Brief History of the Sami People
 
