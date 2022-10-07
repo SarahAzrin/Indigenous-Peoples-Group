@@ -35,7 +35,7 @@ The current estimated population of the Sámi people is between 70,000 and 100,0
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Saamelaisalue_Suomessa_ja_Saamen_lippu.svg">
 
 ### Branches
 
