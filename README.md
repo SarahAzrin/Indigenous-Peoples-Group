@@ -35,7 +35,7 @@ The current estimated population of the Sámi people is between 70,000 and 100,0
        label="Locations of Sámi People in Finland" 
        description="Finland: The picture shows the traditional residential area of the Sámi people on the Finnish side, as well as the Sámi flag" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Saamelaisalue_Suomessa_ja_Saamen_lippu.svg">
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Finno-Samic_languages_map.png">
 
 ### Branches
 
