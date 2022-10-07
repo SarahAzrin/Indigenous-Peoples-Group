@@ -32,8 +32,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 The current estimated population of the Sámi people is between 70,000 and 100,000 as it is hard to count the population because of the blurry lines of what is considered an identity marker and because of the cultural assimilation that occurred. Roughly half of the population live in Norway but others live in Sweden, Finland, and Russia. [^1]
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Locations of Sámi People in Finland" 
+       description="Finland: The picture shows the traditional residential area of the Sámi people on the Finnish side, as well as the Sámi flag" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Saamelaisalue_Suomessa_ja_Saamen_lippu.svg">
 
@@ -41,16 +41,16 @@ The current estimated population of the Sámi people is between 70,000 and 100,0
 
 Within the umbrella term of the Sámi people, there are 10 branches of subgroups:
 
-* Northern Sami: population of 42,500, primarily located in Norway
-* Lule Sami: population of 8,000, primarily located in Sweden
-* Pite Sami: population of 2,000, primarily located in Sweden
-* Southern Sami: population of 1,200, primarily located in Sweden
-* Ume Sami: population of 1,000, primarily located in Sweden
-* Skolt Sami: population of 1,000, primarily located in Finland
-* Kildin Sami: population of 1,000, primarily located in Russia
-* Inari Sami: population of 900, primarily located in Finland
-* Ter Sami: population of 400, primarily located in Russia
-* Akkala Sami: population of 100, primarily located in Russia
+* Northern Sámi: population of 42,500, primarily located in Norway
+* Lule Sámi: population of 8,000, primarily located in Sweden
+* Pite Sámi: population of 2,000, primarily located in Sweden
+* Southern Sámi: population of 1,200, primarily located in Sweden
+* Ume Sámi: population of 1,000, primarily located in Sweden
+* Skolt Sámi: population of 1,000, primarily located in Finland
+* Kildin Sámi: population of 1,000, primarily located in Russia
+* Inari Sámi: population of 900, primarily located in Finland
+* Ter Sámi: population of 400, primarily located in Russia
+* Akkala Sámi: population of 100, primarily located in Russia
 
 <param ve-map center="Q36600" zoom="11">
 
@@ -58,9 +58,9 @@ Within the umbrella term of the Sámi people, there are 10 branches of subgroups
 
 Each branch of the Sámi has their own language which are closely related to each other but are not considered dialects as they do have their many differences. Many do not speak any of the Sámi languages and have undergone cultural alienation due to being absorbed into the dominant culture of society and the historic laws that prohibited the use of Sámi languages in schools and homes in Sweden and Norway. In fact traditional Sámi songs were illegal in Norway from 1773 to 1958, which is a violation of the universal human right of freedom of expression and right to share in your community’s cultural life. The Sámi people now speak the majority languages of the countries they inhabit, which would be Swedish, Russian, Finish, and Norwegian.
 
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+<param ve-video
+	id="https://www.youtube.com/watch?v=wjwQkOzzSAg"
+	title="WIKITONGUES: Irena speaking Northern Sami."
 
 ## Religion
 
