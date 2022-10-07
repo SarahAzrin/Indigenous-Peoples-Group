@@ -81,7 +81,7 @@ The traditional Sámi religion that was practiced until the 17th century was a t
  <param ve-compare
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ancient_Nordic_Sami_people_offering_to_Diermes_or_Thor_by_Picart_1724.jpg"
 	label="Ancient Nordic Sami people offering to Diermes or Thor"
-	description="Sami people of Lapland offering to the pre-Christian god Tiermes or Thoron; engraved illustration by Bernard Picart from Cérémonies et coutumes religieuses de tous les peuples du monde (1725)"
+	description="Sami people of Lapland offering to the pre-Christian god Tiermes or Thoron; engraved illustration by Bernard Picart from Cérémonies et coutumes religieuses de tous les peuples du monde (1725)">
 
 
 # Values relating to the Earth
