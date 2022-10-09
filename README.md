@@ -88,15 +88,24 @@ The traditional Sámi religion that was practiced until the 17th century was a t
 
 The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__. 
 
-<param ve-compare curtain
-       url="https://upload.wikimedia.org/wikipedia/commons/8/89/Sami_people_and_reindeer_in_Lappland%2C_Sweden_%288683127528%29.jpg"
-       label="Sami people and reindeer in Lappland, Sweden"
-       description="Sami people and reindeer at a Sami cot in a forest in Lappland. Watercoloured stipple engraving by Fredrik Erik Martin. From c. 1800.">
-       
-<param ve-compare
+<param ve-image
        url:"https://upload.wikimedia.org/wikipedia/commons/d/d9/Traditional_Sam%C3%AD_house.jpg"
        label="Traditional Samí house"
        description="Traditional Samí house, Finnmark, Norway.">
+
+# Environmental Challenges They Face
+
+The Sámi people have more than 100 words to describe each type of snow yet __climate change__ is causing noticeable impacts. The warming arctic causes temperatures to rise and __snow to melt quicker or simply fall as rain__. Snow that is so ingrained in the culture of the Sámi people is slowly jeopardized by unnatural changes in climate. __Reindeer__, also important to culture and economy, are having harder times finding food and graze. Since the care of reindeers relies on identifying the type of snow, this new, unidentifiable snow __makes it harder to protect the reindeer__ and the traditional significance they carry. Sámi culture is so related to __animism, the idea that significant objects possess spirit,__ which makes that balance within the ecosystem even more vital. This imbalance caused by climate change could be detrimental to their culture and thus __the very essence of the Sámi people__. 
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/8/89/Sami_people_and_reindeer_in_Lappland%2C_Sweden_%288683127528%29.jpg"
+       label="Sami people and reindeer in Lappland, Sweden"
+       description="Sami people and reindeer at a Sami cot in a forest in Lappland. Watercoloured stipple engraving by Fredrik Erik Martin. From c. 1800.">
+   
+# Legislative Action to Protect the Sámi People’s Rights and Breaches of Rights
+
+
+
 
 
 # References
