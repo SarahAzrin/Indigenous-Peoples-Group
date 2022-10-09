@@ -84,7 +84,7 @@ The traditional Sámi religion that was practiced until the 17th century was a t
 	description="Sami people of Lapland offering to the pre-Christian god Tiermes or Thoron; engraved illustration by Bernard Picart from Cérémonies et coutumes religieuses de tous les peuples du monde (1725)">
 
 
-# Values relating to the Earth
+# Values Relating to the Earth
 
 The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__. 
 
