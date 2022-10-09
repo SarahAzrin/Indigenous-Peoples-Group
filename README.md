@@ -96,7 +96,7 @@ The Sámi people perceive the earth as __the foundation of their livelihood__ an
 <param ve-compare
        url:"https://upload.wikimedia.org/wikipedia/commons/d/d9/Traditional_Sam%C3%AD_house.jpg"
        label="Traditional Samí house"
-       description="Traditional Samí house, Finnmark, Norway."
+       description="Traditional Samí house, Finnmark, Norway.">
 
 
 # References
