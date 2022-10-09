@@ -104,8 +104,26 @@ The Sámi people have more than 100 words to describe each type of snow yet __cl
    
 # Legislative Action to Protect the Sámi People’s Rights and Breaches of Rights
 
+__The ILO C 169, Indigenous and Tribal Peoples Convention of 1989__, is an International Labor Organization Convention. Participation in this convention is a step towards securing the rights of indigenous peoples. Norway’s participation in this convention __secured the rights of the Sámi people__. This convention directly states in Article 14: 
 
+_"1. The rights of ownership and possession of the peoples concerned over the lands which they traditionally occupy shall be recognised. In addition, measures shall be taken in appropriate cases to safeguard the right of the peoples concerned to use lands not exclusively occupied by them, but to which they have traditionally had access for their subsistence and traditional activities.”_
 
+It is one of many conventions that exist to __protect the rights of indigenous people.__ Another specific to the Sámi people is the Nordic Sami Convention ratified in 2017. It seeks to protect the rights of the Sámi people in the region of Finland, Norway, and Sweden, however __it proves insufficient in enforcement__, an example being in Sweden: 
+
+The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtingslag” as a form of __representation in Swedish politics__. It acts as a parliament within the Sámi people of Sweden, however due to its focus on cultural matters, it is a less effective form of representation in the national legislature. The Sámi in Sweden have a current status as an __“ethnic minority or as indigenous peoples”__ in the Swedish constitution, thus __they are not recognised as their own group of people__. While they do have freedom to participate in culture, __they do not have rights to land ownership__ under the basis of being part of the Sámi people. This is a __violation of the right of self-determination and the right to govern themselves,__ as the land that belongs to the Sámi people is being governed by the Swedish government.  
+
+Despite Sweden being a signatory to the Nordic Saami Convention, it continues to breach its agreements as well as article 26 of the [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf):
+
+<param ve-image
+       url="file:///Users/sarahazrinpowerbook/Desktop/Screen%20Shot%202022-10-09%20at%207.46.05%20PM.jpg"
+       label="UNDRIP Article 26">
+       
+       
+“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”
+
+This breach of agreement allows legislation like the Mineral Act to exist. Enacted in 1991, it allows the Swedish mining companies to take advantage of indigenous land without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to Sweden’s lack of recognition of the Sámi people’s land rights, directly affecting their self-determination.
+
+	The breach of land rights compromises the self-determination of the Sámi people. By not giving specific representation in legislative affairs, human rights of the Sámi people are affected. While they have self-determination on cultural matters, the fundamental rights to live on their own land are vague and this lack of control over their own affairs could be considered a breach of the right to self-determination.
 
 
 # References
