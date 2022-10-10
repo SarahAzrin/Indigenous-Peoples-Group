@@ -69,20 +69,6 @@ Within the umbrella term of the Sámi people, there are __10 branches__ of subgr
 * Ter Sámi: population of 400, primarily located in Russia
 * Akkala Sámi: population of 100, primarily located in Russia
 
-<param ve-image fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sami_languages_large_2.png"
-       label="Map of Sámi Banches"
-       description="Map of Fennoscandia showing the distribution of Sámi languages
-1. Southern Sámi
-2. Ume Sámi
-3. Pite Sámi
-4. Lule Sámi
-5. Northern Sámi
-6. Skolt Sámi
-7. Inari Sámi
-8. Kildin Sámi
-9. Ter Sámi">
-
 ## Language
 
 Each branch of the Sámi has their own [language](https://www.youtube.com/watch?v=wjwQkOzzSAg) which are closely related to each other but are not considered dialects as they do have their many differences. Many do not speak any of the Sámi languages and have undergone __cultural alienation__ due to being absorbed into the dominant culture of society and the __historic laws that prohibited the use of Sámi languages__ in schools and homes in Sweden and Norway. In fact, __traditional Sámi songs were illegal__ in Norway from 1773 to 1958, which is a violation of the __universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) of freedom of expression and right to share in your community’s cultural life__. The Sámi people now speak the majority languages of the countries they inhabit, which would be Swedish, Russian, Finish, and Norwegian.
@@ -116,7 +102,7 @@ The traditional Sámi religion that was practiced until the 17th century was a t
 The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__. 
 
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Three_S%C3%A1mi_Lapp_women%2C_c1890s.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
        label="Three Sámi Lapp women"
        description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
 
