@@ -117,14 +117,14 @@ The Sámi people have more than 100 words to describe each type of snow yet __cl
    
 # Legislative Action to Protect the Sámi People’s Rights and Breaches of Rights
 
-__The ILO C 169, Indigenous and Tribal Peoples Convention of 1989__, is an International Labor Organization Convention. Participation in this convention is a step towards securing the rights of indigenous peoples. Norway’s participation in this convention __secured the rights of the Sámi people__. This convention directly states in Article 14: 
+__The ILO C 169, Indigenous and Tribal Peoples Convention of 1989__, is an International Labor Organization Convention. Participation in this convention is a step towards securing the rights of indigenous peoples. Norway’s participation in this convention __secured the rights of the Sámi people__. [^7] This convention directly states in Article 14: 
 
 <param ve-image fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/1/18/Sami_family-easter.jpg"
        label="Sami family-easter"
        description="Sami family at spring (Easter) celebration.">
 
-_"1. The rights of ownership and possession of the peoples concerned over the lands which they traditionally occupy shall be recognised. In addition, measures shall be taken in appropriate cases to safeguard the right of the peoples concerned to use lands not exclusively occupied by them, but to which they have traditionally had access for their subsistence and traditional activities.”_
+_"1. The rights of ownership and possession of the peoples concerned over the lands which they traditionally occupy shall be recognised. In addition, measures shall be taken in appropriate cases to safeguard the right of the peoples concerned to use lands not exclusively occupied by them, but to which they have traditionally had access for their subsistence and traditional activities.”_[^8]
 
 <param ve-image fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/95/The_S%C3%A1mi_Parliament_in_Norway.jpg"
@@ -154,7 +154,7 @@ Despite Sweden being a signatory to the Nordic Saami Convention, it continues to
        description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
        
        
-_“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_
+_“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_ [^9]
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/2/23/Sami_Jienat.jpg"
@@ -194,6 +194,15 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
      Conference workshop presented at 37th Annual Conference of the
      International Association for Impact Assessment, Le Centre Sheraton,
      Montréal, Canada, April 4, 2017. Accessed October 9, 2022.
+     
+[^8]: ["C169."](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:55:0::NO::P55_TYPE,P55_LANG,P55_DOCUMENT,P55_NODE:REV,en,C169,/Document.) Paper presented at Indigenous and Tribal Peoples Convention, (No. 169),
+     1989. Accessed October 9, 2022. 
+     
+[^9]: ["United](https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html.) Nations Declaration on the Rights of Indigenous Peoples." United
+     Nations. Last modified September 13, 2007. Accessed October 9, 2022.
+     
+
+     
      
 
 
