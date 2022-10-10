@@ -43,6 +43,7 @@ The current estimated population of the Sámi people is between __70,000 and 100
 ### Branches
 
 Within the umbrella term of the Sámi people, there are __10 branches__ of subgroups:
+
 * Northern Sámi: population of 42,500, primarily located in Norway
 * Lule Sámi: population of 8,000, primarily located in Sweden
 * Pite Sámi: population of 2,000, primarily located in Sweden
@@ -54,7 +55,7 @@ Within the umbrella term of the Sámi people, there are __10 branches__ of subgr
 * Ter Sámi: population of 400, primarily located in Russia
 * Akkala Sámi: population of 100, primarily located in Russia
 
-<param ve-image
+<param ve-image fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sami_languages_large_2.png"
        label="Map of Sami Banches"
        description="Map of Fennoscandia showing the distribution of Sami languages
