@@ -69,7 +69,19 @@ Within the umbrella term of the Sámi people, there are __10 branches__ of subgr
 * Ter Sámi: population of 400, primarily located in Russia
 * Akkala Sámi: population of 100, primarily located in Russia
 
-
+<param ve-image fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sami_languages_large_2.png"
+       label="Map of Sámi Banches"
+       description="Map of Fennoscandia showing the distribution of Sámi languages
+1. Southern Sámi
+2. Ume Sámi
+3. Pite Sámi
+4. Lule Sámi
+5. Northern Sámi
+6. Skolt Sámi
+7. Inari Sámi
+8. Kildin Sámi
+9. Ter Sámi">
 
 ## Language
 
@@ -104,9 +116,9 @@ The traditional Sámi religion that was practiced until the 17th century was a t
 The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__. 
 
 <param ve-image
-       url:"https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
-       label="Sami church Staloluokta"
-       description="Kåta-like (Sami traditional house) in Saloluokta, Padjelanta national park">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Three_S%C3%A1mi_Lapp_women%2C_c1890s.jpg"
+       label="Three Sámi Lapp women"
+       description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
 
 # Environmental Challenges They Face
 
@@ -170,7 +182,10 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
        label="Sami people traveling at lake Luossajärvi, Lappland, Sweden"
        description="Sami people traveling with reindeer and sleighs on the ice on lake Luossajärvi near Kiruna in Lapland.">
 
-
+<param ve-image
+       url:"https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
+       label="Sami church Staloluokta"
+       description="Kåta-like (Sami traditional house) in Saloluokta, Padjelanta national park">
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
