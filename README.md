@@ -121,6 +121,11 @@ The Sámi people have more than 100 words to describe each type of snow yet __cl
 
 __The ILO C 169, Indigenous and Tribal Peoples Convention of 1989__, is an International Labor Organization Convention. Participation in this convention is a step towards securing the rights of indigenous peoples. Norway’s participation in this convention __secured the rights of the Sámi people__. This convention directly states in Article 14: 
 
+<param ve-image fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/18/Sami_family-easter.jpg"
+       label="Sami family-easter"
+       description="Sami family at spring (Easter) celebration.">
+
 _"1. The rights of ownership and possession of the peoples concerned over the lands which they traditionally occupy shall be recognised. In addition, measures shall be taken in appropriate cases to safeguard the right of the peoples concerned to use lands not exclusively occupied by them, but to which they have traditionally had access for their subsistence and traditional activities.”_
 
 <param ve-image fit="contain"
@@ -146,21 +151,21 @@ The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtin
 Despite Sweden being a signatory to the Nordic Saami Convention, it continues to breach its agreements as well as article 26 of the [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf):
 
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/2/23/Sami_Jienat.jpg"
-       label="Sami Jienat"
-       description="Sami Jienat, a Sami choir, at concert.">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Three_S%C3%A1mi_Lapp_women%2C_c1890s.jpg"
+       label="Three Sámi Lapp women"
+       description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
        
        
 _“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_
 
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Three_S%C3%A1mi_Lapp_women%2C_c1890s.jpg"
-       label="Three Sámi Lapp women"
-       description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
+       url="https://upload.wikimedia.org/wikipedia/commons/2/23/Sami_Jienat.jpg"
+       label="Sami Jienat"
+       description="Sami Jienat, a Sami choir, at concert.">
 
 This breach of agreement allows legislation like __the Mineral Act__ to exist. Enacted in 1991, it allows the Swedish mining companies to __take advantage of indigenous land__ without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to __Sweden’s lack of recognition of the Sámi people’s land rights__, directly affecting their self-determination. While they have self-determination on cultural matters, the fundamental human right to live on their own land are vague and this __lack of control over their own affairs is a breach of their right to self-determination__.
 
-<param ve-image
+<param ve-image fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sami_people_traveling_at_lake_Luossaj%C3%A4rvi%2C_Lappland%2C_Sweden_%2832378251586%29.jpg"
        label="Sami people traveling at lake Luossajärvi, Lappland, Sweden"
        description="Sami people traveling with reindeer and sleighs on the ice on lake Luossajärvi near Kiruna in Lapland.">
