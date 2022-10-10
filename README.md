@@ -173,7 +173,11 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
 
 ## Research Sources/ Footnotes
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Word Press. "A Brief History of the Sami." Challenging Europe UCL. Accessed
+     October 9, 2022.](https://challengingeuropeucl.wordpress.com/
+     a-brief-history-of-the-sami/
+     #:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20se
+     ttlements.](https://challengingeuropeucl.wordpress.com/a-brief-history-of-the-sami/#:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20settlements)
 
 
 
