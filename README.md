@@ -127,6 +127,16 @@ It is one of many conventions that exist to __protect the rights of indigenous p
 
 The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtingslag” as a form of __representation in Swedish politics__. It acts as a parliament within the Sámi people of Sweden, however due to its focus on cultural matters, it is a less effective form of representation in the national legislature. The Sámi in Sweden have a current status as an __“ethnic minority or as indigenous peoples”__ in the Swedish constitution, thus __they are not recognised as their own group of people__. While they do have freedom to participate in culture, __they do not have rights to land ownership__ under the basis of being part of the Sámi people. This is a __violation of the right of self-determination and the right to govern themselves,__ as the land that belongs to the Sámi people is being governed by the Swedish government.  
 
+<param ve-compare curtain
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Sami_Parliament_of_Norway_2017.svg"
+       label="Sami Parliament of Norway"
+       description="Composition of the Sami Parliament of Norway as of the election on 11 September 2017.">
+       
+<param ve-compare
+       url="https://upload.wikimedia.org/wikipedia/commons/9/95/The_S%C3%A1mi_Parliament_in_Norway.jpg"
+       label="The Sámi Parliament in Norway">
+       
+
 Despite Sweden being a signatory to the Nordic Saami Convention, it continues to breach its agreements as well as article 26 of the [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf):
 
 <param ve-image
