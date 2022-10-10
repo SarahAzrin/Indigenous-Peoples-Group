@@ -132,7 +132,7 @@ The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtin
        label="Sami Parliament of Norway"
        description="Composition of the Sami Parliament of Norway as of the election on 11 September 2017.">
        
-<param ve-compare
+<param ve-compare fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/95/The_S%C3%A1mi_Parliament_in_Norway.jpg"
        label="The Sámi Parliament in Norway">
        
