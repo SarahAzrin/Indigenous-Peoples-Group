@@ -22,11 +22,12 @@
 
 # A Brief History of the Sami People
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The Sámi indigenous group inhabited their territory of Northern Europe, specifically Norway, Sweden, Finland, and the Russian Kola Peninsula, around 2000 years ago and in that span of time they have settled, created culture around their environment, and undergone colonization and the loss of their land. They call their ancestral land, Sápmi. The Sámi have actually been thought of as Europe’s only indigenous group yet there has been little done to preserve their culture and legacy. Although the Sámi are not bound to one state, they do have a flag that represents their cultural identity (put picture of “Sami Civil Flag” on visual essay). In general the Sámi flag represents the Sámi people and their ties to the natural world, but specifically the colors of the flag belong to colors from the traditional Sámi clothing and the circle symbol on the flag represents the sun and the moon. The flag flies on Sámi National Day which is February 6th. source for this. For 25 years, there have been many movements to reclaim the Sámi identity in order to unite descendants and rediscover their history and culture.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c4/Samem%C3%B8tet_1917_i_Metodistkirken_med_samisk_flagg_foran.jpg"
+       label="The Sámi people"
+       description="The Sámi flag on top of the picture of the first Sámi meeting">
             
-
 # Some Basic Facts
 
 ## Size
@@ -119,11 +120,9 @@ Despite Sweden being a signatory to the Nordic Saami Convention, it continues to
        label="UNDRIP Article 26">
        
        
-“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”
+_“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_
 
-This breach of agreement allows legislation like the Mineral Act to exist. Enacted in 1991, it allows the Swedish mining companies to take advantage of indigenous land without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to Sweden’s lack of recognition of the Sámi people’s land rights, directly affecting their self-determination.
-
-	The breach of land rights compromises the self-determination of the Sámi people. By not giving specific representation in legislative affairs, human rights of the Sámi people are affected. While they have self-determination on cultural matters, the fundamental rights to live on their own land are vague and this lack of control over their own affairs could be considered a breach of the right to self-determination.
+This breach of agreement allows legislation like __the Mineral Act__ to exist. Enacted in 1991, it allows the Swedish mining companies to __take advantage of indigenous land__ without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to __Sweden’s lack of recognition of the Sámi people’s land rights__, directly affecting their self-determination. While they have self-determination on cultural matters, the fundamental human right to live on their own land are vague and this __lack of control over their own affairs is a breach of their right to self-determination__.
 
 
 # References
