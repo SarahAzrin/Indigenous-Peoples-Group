@@ -123,18 +123,24 @@ __The ILO C 169, Indigenous and Tribal Peoples Convention of 1989__, is an Inter
 
 _"1. The rights of ownership and possession of the peoples concerned over the lands which they traditionally occupy shall be recognised. In addition, measures shall be taken in appropriate cases to safeguard the right of the peoples concerned to use lands not exclusively occupied by them, but to which they have traditionally had access for their subsistence and traditional activities.”_
 
+<param ve-image fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/95/The_S%C3%A1mi_Parliament_in_Norway.jpg"
+       label="The Sámi Parliament in Norway"
+       description="The Sámi Parliment building in Norway.">
+
 It is one of many conventions that exist to __protect the rights of indigenous people.__ Another specific to the Sámi people is the Nordic Sami Convention ratified in 2017. It seeks to protect the rights of the Sámi people in the region of Finland, Norway, and Sweden, however __it proves insufficient in enforcement__, an example being in Sweden: 
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Sami_camp_at_lake_Luossaj%C3%A4rvi%2C_Lappland%2C_Sweden_%289964732875%29.jpg"
+       label="Sami camp at lake Luossajärvi, Lappland, Sweden"
+       description="Sami camp at lake Luossajärvi near Kiruna in Lapland, Sweden.">
 
 The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtingslag” as a form of __representation in Swedish politics__. It acts as a parliament within the Sámi people of Sweden, however due to its focus on cultural matters, it is a less effective form of representation in the national legislature. The Sámi in Sweden have a current status as an __“ethnic minority or as indigenous peoples”__ in the Swedish constitution, thus __they are not recognised as their own group of people__. While they do have freedom to participate in culture, __they do not have rights to land ownership__ under the basis of being part of the Sámi people. This is a __violation of the right of self-determination and the right to govern themselves,__ as the land that belongs to the Sámi people is being governed by the Swedish government.  
 
-<param ve-compare curtain
+<param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Sami_Parliament_of_Norway_2017.svg"
        label="Sami Parliament of Norway"
        description="Composition of the Sami Parliament of Norway as of the election on 11 September 2017.">
-       
-<param ve-compare fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/95/The_S%C3%A1mi_Parliament_in_Norway.jpg"
-       label="The Sámi Parliament in Norway">
        
 
 Despite Sweden being a signatory to the Nordic Saami Convention, it continues to breach its agreements as well as article 26 of the [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf):
@@ -147,6 +153,11 @@ Despite Sweden being a signatory to the Nordic Saami Convention, it continues to
 _“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_
 
 This breach of agreement allows legislation like __the Mineral Act__ to exist. Enacted in 1991, it allows the Swedish mining companies to __take advantage of indigenous land__ without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to __Sweden’s lack of recognition of the Sámi people’s land rights__, directly affecting their self-determination. While they have self-determination on cultural matters, the fundamental human right to live on their own land are vague and this __lack of control over their own affairs is a breach of their right to self-determination__.
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sami_people_traveling_at_lake_Luossaj%C3%A4rvi%2C_Lappland%2C_Sweden_%2832378251586%29.jpg"
+       label="Sami people traveling at lake Luossajärvi, Lappland, Sweden"
+       description="Sami people traveling with reindeer and sleighs on the ice on lake Luossajärvi near Kiruna in Lapland.">
 
 
 # References
