@@ -173,12 +173,6 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
 
 ## Research Sources/ Footnotes
 
-[^1]: [Word Press. "A Brief History of the Sami." Challenging Europe UCL. Accessed
-     October 9, 2022.](https://challengingeuropeucl.wordpress.com/
-     a-brief-history-of-the-sami/
-     #:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20se
-     ttlements.](https://challengingeuropeucl.wordpress.com/a-brief-history-of-the-sami/#:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20settlements)
-
-
-
+[^1]: [Word](https://challengingeuropeucl.wordpress.com/a-brief-history-of-the-sami/#:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20settlements.) Press. "A Brief History of the Sami." Challenging Europe UCL. Accessed
+     October 9, 2022.
 
