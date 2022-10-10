@@ -137,8 +137,8 @@ It is one of many conventions that exist to __protect the rights of indigenous p
 
 The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtingslag” as a form of __representation in Swedish politics__. It acts as a parliament within the Sámi people of Sweden, however due to its focus on cultural matters, it is a less effective form of representation in the national legislature. The Sámi in Sweden have a current status as an __“ethnic minority or as indigenous peoples”__ in the Swedish constitution, thus __they are not recognised as their own group of people__. While they do have freedom to participate in culture, __they do not have rights to land ownership__ under the basis of being part of the Sámi people. This is a __violation of the right of self-determination and the right to govern themselves,__ as the land that belongs to the Sámi people is being governed by the Swedish government.  
 
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Sami_Parliament_of_Norway_2017.svg"
+<param ve-image fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Sami_Parliament_of_Norway_2021.svg"
        label="Sami Parliament of Norway"
        description="Composition of the Sami Parliament of Norway as of the election on 11 September 2017.">
        
@@ -146,11 +146,17 @@ The Sámi people in Sweden have signed the Sámi Parliament Act or the “Samtin
 Despite Sweden being a signatory to the Nordic Saami Convention, it continues to breach its agreements as well as article 26 of the [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf):
 
 <param ve-image
-       url="file:///Users/sarahazrinpowerbook/Desktop/Screen%20Shot%202022-10-09%20at%207.46.05%20PM.jpg"
-       label="UNDRIP Article 26">
+       url="https://upload.wikimedia.org/wikipedia/commons/2/23/Sami_Jienat.jpg"
+       label="Sami Jienat"
+       description="Sami Jienat, a Sami choir, at concert.">
        
        
 _“Indigenous peoples have the right to own, develop, control and use the lands and territories, including the total environment of the lands, air, waters, coastal seas, sea-ice, flora and fauna and other resources which they have traditionally owned or otherwise occupied or used. This includes the right to the full recognition of their laws, traditions and customs, land-tenure systems and institutions for the development and management of resources, and the right to effective measures by States to prevent any interference with, alienation of or encroachment upon these rights.”_
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Three_S%C3%A1mi_Lapp_women%2C_c1890s.jpg"
+       label="Three Sámi Lapp women"
+       description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
 
 This breach of agreement allows legislation like __the Mineral Act__ to exist. Enacted in 1991, it allows the Swedish mining companies to __take advantage of indigenous land__ without consulting those who have rightful claim to it. This act also has no mention of the Sámi’s ability to prevent these operations. This is due to __Sweden’s lack of recognition of the Sámi people’s land rights__, directly affecting their self-determination. While they have self-determination on cultural matters, the fundamental human right to live on their own land are vague and this __lack of control over their own affairs is a breach of their right to self-determination__.
 
