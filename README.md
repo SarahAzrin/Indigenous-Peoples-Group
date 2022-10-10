@@ -22,7 +22,7 @@
 
 # A Brief History of the Sámi People
 
-The Sámi indigenous group inhabited their territory of __Northern Europe__, specifically Norway, Sweden, Finland, and the Russian Kola Peninsula, around __2,000 years ago__ and in that span of time they have settled, created culture around their environment, and underwent colonization and the loss of their land. They call their ancestral land, __Sápmi__. The Sámi have even been thought of as __Europe’s only indigenous group__, yet there has been little done to preserve their culture and legacy. Although the Sámi are not bound to one state, they do have __a flag__ that represents their cultural identity . In general the Sámi flag __represents the Sámi people and their ties to the natural world__, but specifically the colors of the flag belong to colors from the __traditional Sámi clothing__ and the __circle symbol__ on the flag represents __the sun and the moon__. The flag flies on __Sámi National Day__ which is February 6th. For 25 years, there have been __many movements to reclaim the Sámi identity__ in order to __unite descendants and rediscover their history and culture__.
+The Sámi indigenous group inhabited their territory of __Northern Europe__, specifically Norway, Sweden, Finland, and the Russian Kola Peninsula, around __2,000 years ago__ and in that span of time they have settled, created culture around their environment, and underwent colonization and the loss of their land. They call their ancestral land, __Sápmi__. The Sámi have even been thought of as __Europe’s only indigenous group__, yet there has been little done to preserve their culture and legacy. Although the Sámi are not bound to one state, they do have __a flag__ that represents their cultural identity . In general the Sámi flag __represents the Sámi people and their ties to the natural world__, but specifically the colors of the flag belong to colors from the __traditional Sámi clothing__ and the __circle symbol__ on the flag represents __the sun and the moon__. The flag flies on __Sámi National Day__ which is February 6th.[^2] For 25 years, there have been __many movements to reclaim the Sámi identity__ in order to __unite descendants and rediscover their history and culture__.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c4/Samem%C3%B8tet_1917_i_Metodistkirken_med_samisk_flagg_foran.jpg"
        label="The Sámi people"
@@ -175,4 +175,7 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
 
 [^1]: [Word](https://challengingeuropeucl.wordpress.com/a-brief-history-of-the-sami/#:~:text=The%20precise%20origins%20of%20the,resulted%20in%20semi%2Dpermanent%20settlements.) Press. "A Brief History of the Sami." Challenging Europe UCL. Accessed
      October 9, 2022.
+     
+[^2]: "[Sami](https://www.samiculturalcenter.org/sami-history-and-culture/sami-history/.) History." Sami Cultural Center of North America. Accessed October 9, 2022.
+     
 
