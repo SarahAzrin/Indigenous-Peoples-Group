@@ -171,4 +171,8 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
 
 # Bibliography
 
+## Research Sources/ Footnotes
+
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
+
