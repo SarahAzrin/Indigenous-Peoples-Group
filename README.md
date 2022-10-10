@@ -22,7 +22,7 @@
 
 # A Brief History of the Sámi People
 
-The Sámi indigenous group inhabited their territory of __Northern Europe__, specifically Norway, Sweden, Finland, and the Russian Kola Peninsula, around __2,000 years ago__ and in that span of time they have settled, created culture around their environment, and underwent colonization and the loss of their land. They call their ancestral land, __Sápmi__. The Sámi have even been thought of as __Europe’s only indigenous group__, yet there has been little done to preserve their culture and legacy. Although the Sámi are not bound to one state, they do have __a flag__ that represents their cultural identity . In general the Sámi flag __represents the Sámi people and their ties to the natural world__, but specifically the colors of the flag belong to colors from the __traditional Sámi clothing__ and the __circle symbol__ on the flag represents __the sun and the moon__. The flag flies on __Sámi National Day__ which is February 6th.[^2] For 25 years, there have been __many movements to reclaim the Sámi identity__ in order to __unite descendants and rediscover their history and culture__.
+The Sámi indigenous group inhabited their territory of __Northern Europe__, specifically Norway, Sweden, Finland, and the Russian Kola Peninsula, around __2,000 years ago__ and in that span of time they have settled, created culture around their environment, and underwent colonization and the loss of their land. They call their ancestral land, __Sápmi__. The Sámi have even been thought of as __Europe’s only indigenous group__, yet there has been little done to preserve their culture and legacy. Although the Sámi are not bound to one state, they do have __a flag__ that represents their cultural identity . In general the Sámi flag __represents the Sámi people and their ties to the natural world__, but specifically the colors of the flag belong to colors from the __traditional Sámi clothing__ and the __circle symbol__ on the flag represents __the sun and the moon__. The flag flies on __Sámi National Day__ which is February 6th.[^1] For 25 years, there have been __many movements to reclaim the Sámi identity__ in order to __unite descendants and rediscover their history and culture__.[^2]
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c4/Samem%C3%B8tet_1917_i_Metodistkirken_med_samisk_flagg_foran.jpg"
        label="The Sámi people"
@@ -32,7 +32,7 @@ The Sámi indigenous group inhabited their territory of __Northern Europe__, spe
 
 ## Size
 
-The current estimated population of the Sámi people is between __70,000 and 100,000__ as it is hard to count the population because of the blurry lines of what is considered an identity marker and because of the __cultural assimilation__ that occurred. Roughly half of the population live in Norway but others live in Sweden, Finland, and Russia. [^1]
+The current estimated population of the Sámi people is between __70,000 and 100,000__ as it is hard to count the population because of the blurry lines of what is considered an identity marker and because of the __cultural assimilation__ that occurred. Roughly half of the population live in Norway but others live in Sweden, Finland, and Russia.
 
 <param ve-image 
        label="Map of Sámi Languages" 
@@ -71,7 +71,7 @@ Within the umbrella term of the Sámi people, there are __10 branches__ of subgr
 
 ## Language
 
-Each branch of the Sámi has their own [language](https://www.youtube.com/watch?v=wjwQkOzzSAg) which are closely related to each other but are not considered dialects as they do have their many differences. Many do not speak any of the Sámi languages and have undergone __cultural alienation__ due to being absorbed into the dominant culture of society and the __historic laws that prohibited the use of Sámi languages__ in schools and homes in Sweden and Norway. In fact, __traditional Sámi songs were illegal__ in Norway from 1773 to 1958, which is a violation of the __universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) of freedom of expression and right to share in your community’s cultural life__. The Sámi people now speak the majority languages of the countries they inhabit, which would be Swedish, Russian, Finish, and Norwegian.
+Each branch of the Sámi has their own [language](https://www.youtube.com/watch?v=wjwQkOzzSAg) which are closely related to each other but are not considered dialects as they do have their many differences. Many do not speak any of the Sámi languages and have undergone __cultural alienation__ due to being absorbed into the dominant culture of society and the __historic laws that prohibited the use of Sámi languages__ in schools and homes in Sweden and Norway. In fact, __traditional Sámi songs were illegal__ in Norway from 1773 to 1958, which is a violation of the __universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) of freedom of expression and right to share in your community’s cultural life__. The Sámi people now speak the majority languages of the countries they inhabit, which would be Swedish, Russian, Finish, and Norwegian.[^3]
 
 <param ve-video
 	id="wjwQkOzzSAg"
@@ -80,7 +80,7 @@ Each branch of the Sámi has their own [language](https://www.youtube.com/watch?
 
 ## Religion
 
-The traditional Sámi religion that was practiced until the 17th century was a type of polytheism and animism which is the belief of the supernatural and that objects, places, and creatures all have a spiritual essence. Their religion was tied closely to the land and had a deep connection between the natural and spiritual worlds. They felt it was important to connect ones personal spirituality with their daily life and it was very much at the forefront of their culture. They also engaged in ritual communication with the supernatural using __drums__, chants, or sacred objects, and practiced their religion at __sacred sites__ like mountains, springs, or other land formations. However, when Christianiaty became the dominant religion in the 17th century, the Sámi were forced to practice their religion at home in private and had to attend church on Sundays. They were considered to have witchcraft powers and were accused of sorcery. In fact, in 1720 the Sámi inhabitants of Norway had their __drums__ or other sacred objects burned, and sacred sites destroyed because of efforts to __colonize and convert them__. This was an explicit and forceful __violation of the Sámi peoples universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) to religion and the ability to worship in peace and security__. 
+The traditional Sámi religion that was practiced until the 17th century was a type of polytheism and animism which is the belief of the supernatural and that objects, places, and creatures all have a spiritual essence. Their religion was tied closely to the land and had a deep connection between the natural and spiritual worlds. They felt it was important to connect ones personal spirituality with their daily life and it was very much at the forefront of their culture. They also engaged in ritual communication with the supernatural using __drums__, chants, or sacred objects, and practiced their religion at __sacred sites__ like mountains, springs, or other land formations. However, when Christianiaty became the dominant religion in the 17th century, the Sámi were forced to practice their religion at home in private and had to attend church on Sundays. They were considered to have witchcraft powers and were accused of sorcery. In fact, in 1720 the Sámi inhabitants of Norway had their __drums__ or other sacred objects burned, and sacred sites destroyed because of efforts to __colonize and convert them__. This was an explicit and forceful __violation of the Sámi peoples universal [human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights) to religion and the ability to worship in peace and security__.[^4] 
 
 <param ve-compare curtain
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Sami_shamanic_drum.JPG"
@@ -99,7 +99,7 @@ The traditional Sámi religion that was practiced until the 17th century was a t
 
 # Values Relating to the Earth
 
-The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__. 
+The Sámi people perceive the earth as __the foundation of their livelihood__ and have developed their culture and spirituality around their land and its resources. They look to preserve ecology and biodiversity and are actively involved in many __conservation efforts__. The reason they think of the earth so highly is because their traditional occupations have always been centered around the land, for example, farming, cattle raising, trapping, and fishing. With being native to the north of Europe, Sámi people began to tame __reindeer__ into herding groups which grew the cultural and economic significance of these wild animals. They became such a large part of their lifestyle that they followed the seasonal migration of the reindeer. The practicality and resourcefulness of the land, however, was just one of the reasons the Sámi people valued the earth. They also practiced spirituality with a respectful, interconnected outlook on nature. __They saw the land as sacred__ and marked with holy sites such as stones, hills, springs, caves, and many more. These sites were used for prayers, offerings, or sacrifices which sat __at the heart of their religion and overall lifestyle__.[^5] 
 
 <param ve-image fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
@@ -108,7 +108,7 @@ The Sámi people perceive the earth as __the foundation of their livelihood__ an
 
 # Environmental Challenges They Face
 
-The Sámi people have more than 100 words to describe each type of snow yet __climate change__ is causing noticeable impacts. The warming arctic causes temperatures to rise and __snow to melt quicker or simply fall as rain__. Snow that is so ingrained in the culture of the Sámi people is slowly jeopardized by unnatural changes in climate. __Reindeer__, also important to culture and economy, are having harder times finding food and graze. Since the care of reindeers relies on identifying the type of snow, this new, unidentifiable snow __makes it harder to protect the reindeer__ and the traditional significance they carry. Sámi culture is so related to __animism, the idea that significant objects possess spirit,__ which makes that balance within the ecosystem even more vital. This imbalance caused by climate change could be detrimental to their culture and thus __the very essence of the Sámi people__. 
+The Sámi people have more than 100 words to describe each type of snow yet __climate change__ is causing noticeable impacts. The warming arctic causes temperatures to rise and __snow to melt quicker or simply fall as rain__. Snow that is so ingrained in the culture of the Sámi people is slowly jeopardized by unnatural changes in climate. __Reindeer__, also important to culture and economy, are having harder times finding food and graze. Since the care of reindeers relies on identifying the type of snow, this new, unidentifiable snow __makes it harder to protect the reindeer__ and the traditional significance they carry.[^6] Sámi culture is so related to __animism, the idea that significant objects possess spirit,__ which makes that balance within the ecosystem even more vital. This imbalance caused by climate change could be detrimental to their culture and thus __the very essence of the Sámi people__.[^7]
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/8/89/Sami_people_and_reindeer_in_Lappland%2C_Sweden_%288683127528%29.jpg"
@@ -177,5 +177,28 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
      October 9, 2022.
      
 [^2]: "[Sami](https://www.samiculturalcenter.org/sami-history-and-culture/sami-history/.) History." Sami Cultural Center of North America. Accessed October 9, 2022.
+
+[^3]: [Magga](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future.), Ole Henrik Skutnabb-Kangas, and Tove. "The Saami Languages: The Present
+     and the Future." Cultural Survival. Last modified March 26, 2010. Accessed
+     October 9, 2022. 
+     
+[^4]: ["Religion."](https://www.mpm.edu/research-collections/anthropology/online-collections-research/sami/religion#:~:text=Like%20most%20Arctic%20and%20Subarctic,inanimate%20objects%20had%20a%20soul.) Milwaukee Public Museum. Accessed October 9, 2022.
+
+[^5]: [Sacred](https://sacredland.org/lands-of-the-sami-finland-norway-russia-sweden/.) Land Film Project. "Lands of the Sami." Sacred Land. Accessed October 9, 2022. 
+
+[^6]: [McVeigh,](https://www.theguardian.com/society/2021/dec/17/new-snow-no-name-sami-reindeer-herders-climate-disaster.) Karen. "'This New Snow Has No Name': Sami Reindeer Herders Face Climate
+     Disaster." The Guardian, December 17, 2021, Environment. Accessed October
+     9, 2022. 
+     
+[^7]: ["Sami](https://conferences.iaia.org/2017/final-papers/Pinto-Guillaume,%20Ezequiel%20-%20Sami%20People,%20Natural%20Resourves%20and%20Climate%20Change.pdf.) People, Natural Resources and Climate Change."
+     Conference workshop presented at 37th Annual Conference of the
+     International Association for Impact Assessment, Le Centre Sheraton,
+     Montréal, Canada, April 4, 2017. Accessed October 9, 2022.
+     
+
+
+
+
+     
      
 
