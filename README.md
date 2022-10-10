@@ -103,8 +103,8 @@ The Sámi people perceive the earth as __the foundation of their livelihood__ an
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
-       label="Three Sámi Lapp women"
-       description="Albumen print of three Sámi (Lapp) women, one smoking a pipe, wearing their traditional caps.">
+       label="Sami church Staloluokta"
+       description="Kåta-like (Sami traditional house) in Saloluokta, Padjelanta national park.">
 
 # Environmental Challenges They Face
 
@@ -168,10 +168,7 @@ This breach of agreement allows legislation like __the Mineral Act__ to exist. E
        label="Sami people traveling at lake Luossajärvi, Lappland, Sweden"
        description="Sami people traveling with reindeer and sleighs on the ice on lake Luossajärvi near Kiruna in Lapland.">
 
-<param ve-image
-       url:"https://upload.wikimedia.org/wikipedia/commons/8/85/Sami_church_Staloluokta.jpg"
-       label="Sami church Staloluokta"
-       description="Kåta-like (Sami traditional house) in Saloluokta, Padjelanta national park">
-# References
+
+# Bibliography
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
